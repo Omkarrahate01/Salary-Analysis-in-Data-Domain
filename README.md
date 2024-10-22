@@ -34,3 +34,5 @@ This project provides a comprehensive analysis of salary trends in the data doma
 Incorporate additional datasets (e.g., job satisfaction, industry trends) to extend the analysis.
 Predict future salary trends using machine learning algorithms.
 Build an interactive dashboard for users to explore salary data in real-time.
+
+![Salary Trend Dashboard Image (1)](https://github.com/user-attachments/assets/45d823d4-0085-4915-adbb-bf6bc189a45f)
